@@ -3,6 +3,6 @@ public class main {
         //write your code here
         System.out.println("Hello last day");
         // what is going on today?
-        // today is thiursday
+        // today is thursday
     }
 }
